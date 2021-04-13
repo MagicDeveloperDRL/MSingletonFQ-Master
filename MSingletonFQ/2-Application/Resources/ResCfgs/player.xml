@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <item ID="1011">
+    <userName>小刘</userName>
+    <passWord>123</passWord>
+    <playerName>西门吹雪</playerName>
+  </item>
+  <item ID="1012">
+    <userName>小陈</userName>
+    <passWord>123</passWord>
+    <playerName>叶孤城</playerName>
+  </item>
+</root>

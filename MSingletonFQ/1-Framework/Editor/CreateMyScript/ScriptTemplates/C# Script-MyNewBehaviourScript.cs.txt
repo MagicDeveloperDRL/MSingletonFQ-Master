@@ -1,0 +1,19 @@
+/****************************************************
+    文件：#SCRIPTNAME#.cs
+    作者：MRL Liu（#CreateAuthor#）
+    博客：https://blog.csdn.net/qq_41959920
+    GitHub：https://github.com/MagicDeveloperDRL
+    日期：#CreateTime#
+    功能：Nothing
+*****************************************************/
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace MSingletonFQ
+{
+	public class #NAME# : MonoBehaviour {
+
+
+	}
+}
